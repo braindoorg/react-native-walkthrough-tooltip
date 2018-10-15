@@ -13,8 +13,8 @@ export default (styles = StyleSheet.create({
     backgroundColor: 'transparent',
     position: 'absolute',
     borderRadius: 4,
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: .5,
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: .08,
     shadowColor: '#000'
   },
   content: {
