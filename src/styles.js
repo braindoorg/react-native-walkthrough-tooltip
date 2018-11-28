@@ -16,15 +16,11 @@ const styles: StyleSheet.Styles = StyleSheet.create({
   tooltip: {
     backgroundColor: 'transparent',
     position: 'absolute',
-    shadowColor: 'black',
-    shadowOffset: { width: 0, height: 2 },
-    shadowRadius: 2,
-    shadowOpacity: 0.8,
   },
   content: {
     borderRadius: 4,
     padding: 8,
-    backgroundColor: '#00ADBC',
+    backgroundColor: '#00657B',
   },
   arrow: {
     position: 'absolute',
